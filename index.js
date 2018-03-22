@@ -14,5 +14,5 @@ function increaseRankBy(n) {
 }
 
 function deepestChild() {
-  container.find('div')
+  element.container.find('div')
 }
